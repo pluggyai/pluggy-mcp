@@ -4,6 +4,8 @@ This is a MCP server for the Pluggy API.
 
 ## Installation
 
+Requires Node.js 22.23.4+ or 24.22.1+.
+
 ```bash
 npm install
 ```
